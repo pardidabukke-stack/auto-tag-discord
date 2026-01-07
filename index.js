@@ -56,6 +56,10 @@ const PLAYER_MAP = {
    "frd40s": {
     userId: "1424098523887964201",
     displayName: "frd40s"
+    },
+   "sasasooya": {
+    userId: "1134493317497901167",
+    displayName: "sasasooya"
   }
 };
 

@@ -1,0 +1,14 @@
+{
+  "name": "auto-tag",
+  "version": "1.0.0",
+  "description": "Discord webhook auto tag bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1"
+  }
+}

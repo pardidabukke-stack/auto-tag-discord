@@ -62,7 +62,7 @@ const PLAYER_MAP = {
     displayName: "sasasooya"
     },
    "dapzy_d1ngin": {
-    userId: "737201490099437579",
+    userId: "1431593932034150462",
     displayName: "meecpengenjule"
     },
    "ferdignwn1": {
@@ -144,3 +144,4 @@ client.on("messageCreate", async (message) => {
 });
 
 client.login(TOKEN);
+

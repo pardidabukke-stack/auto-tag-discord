@@ -60,6 +60,15 @@ const PLAYER_MAP = {
    "sasasooya": {
     userId: "1134493317497901167",
     displayName: "sasasooya"
+    },
+   "dapzy_d1ngin": {
+    userId: "737201490099437579",
+    displayName: "meecpengenjule"
+    },
+   "ferdignwn1": {
+    userId: "759300437110554634",
+    displayName: "FredXMursyid"
+
   }
 };
 

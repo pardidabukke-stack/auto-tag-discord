@@ -52,6 +52,10 @@ const PLAYER_MAP = {
    "laangw2l": {
     userId: "1423356086848721096",
     displayName: "LaangW2L"
+   },
+   "frd40s": {
+    userId: "1424098523887964201",
+    displayName: "frd40s"
   }
 };
 
